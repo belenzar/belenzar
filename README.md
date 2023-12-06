@@ -1,5 +1,7 @@
+
+
 <h1 align="center">Hi 👋, I'm María</h1>
-<h3 align="center">A passionate frontend developer and web designer from Argentina</h3>
+<h2 align="center">A passionate frontend developer and web designer from Argentina</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belenzar&label=Profile%20views&color=0e75b6&style=flat" alt="belenzar" /> </p>
