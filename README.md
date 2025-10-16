@@ -9,8 +9,6 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=belenzar" alt="belenzar" /></a> </p>
 <img align="right" alt="coding girl" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🔭 I’m currently working on [Sakura Spa](https://github.com/belenzar/sakura-spa)
-
 - 🌱 I’m currently learning **React, Tailwind, Laravel**
 
 - 👨‍💻 All of my projects are available at [https://github.com/belenzar](https://github.com/belenzar)
