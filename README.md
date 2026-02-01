@@ -1,7 +1,7 @@
 
 # 👋 Hola, soy María Zárate
 
-💻 **Desarrolladora Frontend / Web**  
+💻 **Desarrolladora Front-End / Web**  
 📍 Argentina
 
 Soy desarrolladora web con foco en **Frontend**, interesada en crear interfaces claras, funcionales y responsivas.  
